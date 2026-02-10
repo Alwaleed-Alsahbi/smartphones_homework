@@ -41,7 +41,7 @@ class MyHomePage extends StatelessWidget {
             name: "pixel 1",
             description: "pixel is th most featureful phone ever",
             price: 800,
-            image: "pixel.png",
+            image: "pixel 1.png",
           ),
          
           ProductBox(
